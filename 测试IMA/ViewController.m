@@ -20,7 +20,7 @@
 //    [self.view addSubview:iv];
 //   [iv sd_setImageWithURL:[NSURL URLWithString:@"http://img5.imgtn.bdimg.com/it/u=2253484101,1253799674&fm=21&gp=0.jpg"]];
     
-    NSArray *arr = @[@"2",@"2",@"2",@"2"];
+    NSArray *arr = @[@"2",@"2",@"2",@"2",@"1",@"5"];
     int count = 0;
     for (int i = 0; i < arr.count; i++) {
         if (i == arr.count - 1) {
